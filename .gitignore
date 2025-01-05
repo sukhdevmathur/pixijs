@@ -1,0 +1,40 @@
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor-specific files
+.idea/
+.vscode/
+*.swp
+
+# npm cache
+.npm/
+
+# Optional npm cache directory
+.npmrc
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Debugger configurations
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# Lint cache
+.eslintcache
+
+# Optional comment: Ignore production build artifacts
+public/
+
